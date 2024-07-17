@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ariyanmahammad
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on startup companies
-- 📫 How to reach me ...
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning DSA in C++ and various frameworks like react.js
+- 💞️ I’m looking for internships and placements
+- 📫 reach me thorough my portflio website available on linkedin
 
 <!---
 Ariyanmahammad/Ariyanmahammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

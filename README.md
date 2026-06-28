@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning DSA in C++ and various frameworks like react.js
 - 💞️ I’m looking for internships and placements
-- 📫 reach me thorough my portflio website available on linkedin
+- 📫 reach me through my portflio website available on linkedin
 
 <!---
 Ariyanmahammad/Ariyanmahammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
